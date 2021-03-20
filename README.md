@@ -17,5 +17,5 @@ What's working:<br/>
 <br/>
 Not Working:<br/>
 
-~ Lid open/close screen status change<br/>
+~ Lid open/close screen sleep<br/>
 ~ Airpods connection with bluetooth<br/>
