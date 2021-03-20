@@ -1,19 +1,20 @@
 # CoreBook_X_OC
 
-Status: [WIP]
+Status: [WIP] \n
 
-What's working:
-
-~ Grapichs UHD650
-~ Audio ALC269
-~ Battery (AC detect delay and Service Notify persistent)
-~ Trackpad SYNA3602
-~ Sleep
-~ USB Port
-~ Intel Wifi
-~ Intel Bluetooth
-
-Not Working:
-
-~ Lid open/close screen status change
-~ Airpods connection with bluetooth
+What's working:\n
+\n
+~ Grapichs UHD650\n
+~ Audio ALC269\n
+~ Battery (AC detect delay and Service Notify persistent)\n
+~ Trackpad SYNA3602\n
+~ Sleep\n
+~ USB Port\n
+~ Intel Wifi\n
+~ Intel Bluetooth\n
+\n
+Not Working:\n
+\n
+~ Lid open/close screen status change\n
+~ Airpods connection with bluetooth\n
+\n
