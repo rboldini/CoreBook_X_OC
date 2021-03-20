@@ -1,5 +1,7 @@
 # CoreBook_X_OC
 <br/>
+Hackintosh on CoreBook X Project<br/>
+<br/>
 Status: [WIP] <br/>
 <br/><br/>
 What's working:<br/>
