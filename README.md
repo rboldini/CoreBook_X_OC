@@ -6,6 +6,8 @@
 
     OpenCore version Update 0.6.7
     Kexts Version Update
+	Fix Sleep
+	Fix SMBUS
 	Enabled OpenCanopy with Default Style and black background.
 	UIScale = 01
     Remove Useless
