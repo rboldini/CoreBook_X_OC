@@ -10,7 +10,7 @@ Quick tips:<br/>
 Vault is covered by Dortania in the Official OpenCore Install Guide <br/>
 When booting for first time disable Force touch from Settings.<br/>
 When booting for first time go to Preferences > Keyboard > Modifier Keys and switch Command and Option values.<br/>
-Before any iService Activation open the config.plist with OpenCore configurator and in Platform Info tab select MacBookPro14,2 from list in DataHUB and SMBIOS and check for a valid serial.<br/>
+Before any iService Activation open the config.plist with OpenCore configurator and in Platform Info tab select MacBookPro14,2 from list in DataHUB and SMBIOS and check for a valid (invalid for apple) serial.<br/>
 
 The serial number provided is random generated.
 
