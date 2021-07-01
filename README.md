@@ -3,9 +3,13 @@
 Latest:<br/>
 Updated to latest version <br/>
 Enabled OpenCanopy picker Apple like at boot<br/>
+Updated kexts <br/>
+Fixed issues with sleep, now closing the lid cause sleep.
 
-Quick tips:
+Quick tips:<br/>
 Vault is covered by Dortania in the Official OpenCore Install Guide <br/>
+When booting for first time disable Force touch from Settings.<br/>
+When booting for first time go to Preferences > Keyboard > Modifier Keys and switch Command and Option values.<br/>
 
 
 For VoodooI2CHID:<.br/>
@@ -17,5 +21,4 @@ Open it with xCode and change IOClass and Name like the image provided.<br/>
 
 
 TODO:<br/>
-1.  LID Closing not working.
-2.  Improvments for battery status.
+1.  Improvments for battery status.
