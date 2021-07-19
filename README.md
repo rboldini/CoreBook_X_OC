@@ -7,6 +7,7 @@ Updated kexts <br/>
 Fixed issues with sleep, now closing the lid cause sleep.
 
 Quick tips:<br/>
+1st thing to do: at boot press ESC and in bios settings go to CHIPSET > GRAPICHS > DVMT and change the value from 32M to 64M.
 Vault is covered by Dortania in the Official OpenCore Install Guide <br/>
 When booting for first time disable Force touch from Settings.<br/>
 When booting for first time go to Preferences > Keyboard > Modifier Keys and switch Command and Option values.<br/>
