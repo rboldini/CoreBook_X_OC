@@ -6,13 +6,13 @@ https://github.com/rboldini/CoreBook_X_OC/issues/9 <br/>
 <br/>
 Device is now 99% working:<br/>
 <br/>
-Not working:<br/>
-Brightness keys - > No idea in how it deal with it and the EC. Someone has an hint? Standard patching method are not working.<br/>
+Not working:<br/><br/>
+Brightness keys -> No idea in how it deal with it and the EC. Someone has an hint? Standard patching method are not working.<br/>
 If you long press f6 and f7 they will work randomly.<br/>
 Same thing for keyboard backlight, it work but there is no way to change it from keyboard or system.<br/>
 <br/>
-Airdrop -> Hope this will be added in AppleIntelWireless Road Map.<br/>
-<br/>
+Airdrop -> Hope this will be added in AppleIntelWireless Road Map.   Actually not an issue for me..
+<br/><br/>
 Battery -> Status reported is missaligned, nothing critical it takes a little more to reach full capability after the system report it as 100% (WIP) just check it with the led you have beside the plug.<br/>
 <br/><br/>
 More settings in BIOS then before, give me some hours...
