@@ -14,6 +14,8 @@ Same thing for keyboard backlight, it work but there is no way to change it from
 Airdrop -> Hope this will be added in AppleIntelWireless Road Map.<br/>
 <br/>
 Battery -> Status reported is missaligned, nothing critical it takes a little more to reach full capability after the system report it as 100% (WIP) just check it with the led you have beside the plug.<br/>
+<br/><br/>
+More settings in BIOS then before, give me some hours...
 <br/>
 
 
