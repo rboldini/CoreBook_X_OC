@@ -18,7 +18,7 @@ Battery -> Status reported is missaligned, nothing critical it takes a little mo
 More settings in BIOS then before, give me some hours...
 <br/>
 <br/>
-__________________________________________________________________________________________________________________
+___________________________________________________________________________________
 <br/><br/><br/>
 
 Latest:<br/>
