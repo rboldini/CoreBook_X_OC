@@ -9,7 +9,7 @@ Device is now 99% working:<br/>
 Not working:<br/>
 Brightness keys - > No idea in how it deal with it and the EC. Someone has an hint? Standard patching method are not working.<br/>
 If you long press f6 and f7 they will work randomly.<br/>
-Same thing for keyboard backlight, it work but there is no way to change it from keyboard or system.
+Same thing for keyboard backlight, it work but there is no way to change it from keyboard or system.<br/>
 <br/>
 Airdrop -> Hope this will be added in AppleIntelWireless Road Map.<br/>
 <br/>
