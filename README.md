@@ -1,4 +1,18 @@
 # CoreBook  X   OC
+<br/>
+November 2021<br/>
+<br/>
+https://github.com/rboldini/CoreBook_X_OC/issues/9 <br/>
+<br/>
+Device is now 99% working:<br/>
+<br/>
+Not working:<br/>
+<br/>
+Airdrop -> Hope this will be added in AppleIntelWireless Road Map.<br/>
+<br/>
+Battery -> Status reported is missaligned, nothing critical it takes a little more to reach full capability after the system report it as 100% (WIP) just check it with the led you have beside the plug.<br/>
+<br/>
+
 
 Latest:<br/>
 Updated to latest version <br/>
