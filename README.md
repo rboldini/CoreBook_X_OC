@@ -3,6 +3,11 @@ ________________________________________________________________________________
 
 # CoreBook  X   OpenCore
 
+> If you found my work useful and want to contribute in some way, you can now offer me a coffee or a beer 
+> [PayPal](https://www.paypal.com/paypalme/boldiniroberto)
+> ![IMG](https://www.iconsdb.com/icons/preview/white/beer-xl.png)
+
+
 > ### ***I do not take any responsibility if you damage your devices.***
 > ### ***The use of this material is not recommended, the procedure to be followed would be that reported in the Dortania guide with your files.***
 
