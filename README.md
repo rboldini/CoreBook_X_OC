@@ -47,9 +47,10 @@ ________________________________________________________________________________
     - Intel RC ACPI Settings:
       - Low Power S0 Idle Capability  **[ENABLED]**
       - PCI Delay Optimization        **[ENABLED]**
-    - CPU Configuration:
-      - CPU Lock Configuration (_BOTTOM_)
-        - CFG Lock **[DISABLED]**
+    - Power and Performance:
+      - CPU Power Management and Control:
+        - CPU Lock Configuration (_BOTTOM_)
+          - CFG Lock **[DISABLED]**
     - Platform Thermal Configuration:
       - Active Trip Point 1           **[63]** 
       - > This only if you have encountered a problem with the fans, which start for 1 second and then turn off at limit of idle state
