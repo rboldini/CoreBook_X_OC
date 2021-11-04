@@ -3,8 +3,8 @@ ________________________________________________________________________________
 
 # CoreBook  X   OpenCore
 
-> ***I do not take any responsibility if you damage your devices.***
-> ***The use of this material is not recommended, the procedure to be followed would be that reported in the Dortania guide with your files.***
+> ### ***I do not take any responsibility if you damage your devices.***
+> ### ***The use of this material is not recommended, the procedure to be followed would be that reported in the Dortania guide with your files.***
 
 
 ### November 2021
