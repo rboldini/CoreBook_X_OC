@@ -3,8 +3,8 @@ ________________________________________________________________________________
 
 # CoreBook  X   OpenCore
 
-> ### If you found my work useful and want to contribute in some way, you can now offer me a beer
-> ### [PayPal 🍻](https://www.paypal.com/paypalme/boldiniroberto) 
+> #### If you found my work useful and want to contribute in some way, you can now offer me a beer
+> #### [PayPal 🍻](https://www.paypal.com/paypalme/boldiniroberto) 
 
 ___________________________________________________________________________________
 
@@ -30,6 +30,8 @@ Not working:
   - No idea in how i can fix. Someone has an hint? Standard patching method are not working
   - If you long press f6 and f7 they will work randomly.
   - Same thing for keyboard backlight, it work but there is no way to change it from keyboard or system.
+
+Issue:
 - Airdrop: 
   - Hope this will be added in AppleIntelWireless Road Map.   Actually not an issue for me..
 - Battery Status:
@@ -53,7 +55,7 @@ ________________________________________________________________________________
           - CFG Lock **[DISABLED]**
     - Platform Thermal Configuration:
       - Active Trip Point 1           **[63]** 
-      - > This only if you have encountered a problem with the fans, which start for 1 second and then turn off at limit of idle state
+      - > This only if for you the fan turns on and off every few seconds in certain cases
   - ## Chipset:
     - Graphics Configuration:
       - DVMT Pre-Allocated            **[64M]**
