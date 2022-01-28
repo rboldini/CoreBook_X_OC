@@ -88,4 +88,4 @@ ________________________________________________________________________________
 > ### [Acidanthera](https://github.com/acidanthera) for OpenCore, and all the public kexts. [License](https://github.com/acidanthera/OpenCorePkg/blob/master/LICENSE.txt)
 > ### [OpenIntelWireless](https://github.com/OpenIntelWireless) for Intel Wifi and Bluetooth support. [License](https://github.com/OpenIntelWireless/itlwm/blob/master/LICENSE)
 > ### Rehabman for ACPIPoller and a way to let me fix LID and AC detection.
-
+> And Me [rboldini](https://github.com/rboldini) for EC mapping, SSDT-BATT and SSDT-LID-AC coding.
