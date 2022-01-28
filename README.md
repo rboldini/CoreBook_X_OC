@@ -85,7 +85,7 @@ ________________________________________________________________________________
 ![VoodooI2CHID](https://user-images.githubusercontent.com/51327886/114537073-0f20ef00-9c52-11eb-9644-af826e872b7e.png)
 
 #Credit
-![Acidanthera](https://github.com/acidanthera) for OpenCore, and all the public kexts. ![License](https://github.com/acidanthera/OpenCorePkg/blob/master/LICENSE.txt)
-![OpenIntelWireless](https://github.com/OpenIntelWireless) for Intel Wifi and Bluetooth support. ![License](https://github.com/OpenIntelWireless/itlwm/blob/master/LICENSE)
-Rehabman for ACPIPoller and a way to let me fix LID and AC detection.
+[Acidanthera](https://github.com/acidanthera) for OpenCore, and all the public kexts. [License](https://github.com/acidanthera/OpenCorePkg/blob/master/LICENSE.txt) <br/>
+[OpenIntelWireless](https://github.com/OpenIntelWireless) for Intel Wifi and Bluetooth support. [License](https://github.com/OpenIntelWireless/itlwm/blob/master/LICENSE)<br/>
+Rehabman for ACPIPoller and a way to let me fix LID and AC detection.<br/>
 
